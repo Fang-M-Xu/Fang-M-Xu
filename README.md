@@ -5,7 +5,7 @@
  <p> My name is Fang Xu and I'm a software developer. I'm from China, now living in Jerusalem and studying master programme.
  <br/>I enjoy coding and often find various online courses to learn the latest technology. Because my  work  was related to urban informatization, and my current research field is also smart cities, I would like to pay attention to the infrastructure of cities while traveling around the world, such as Jerusalem, the ancient holy city shuttling through intelligent  transportation equipment, it seems like you could traveling through time at any time.
  
-⚡I love skydiving, yes,I jumped many times, haha, and I highly recommend you do to this when you feel lots of anxious.
+⚡I love skydiving, yes,I jumped many times, haha😎, and I highly recommend you do to this when you feel lots of anxious.
 </p> <br/>
 
  ##  Technologies & Tools 
