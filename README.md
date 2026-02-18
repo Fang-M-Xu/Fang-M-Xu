@@ -16,7 +16,7 @@
 ##  GitHub Stats
  
  <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Fang-M-Xu&show_icons=true" alt="Fang's GitHub Stats" /><img src="https://streak-stats.demolab.com?user=Fang-M-Xu" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Fang-M-Xu" alt="GitHub Streak"/>
   <div>
   <img src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Fang-M-Xu&layout=compact"/><br/>
 </div>
